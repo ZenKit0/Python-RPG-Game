@@ -1,0 +1,7 @@
+#Name 0 #Level 1 #Int 2 #Str 3 #Dex 4 #HP 5 #Attack_Name 6 #Attack_Power 7 #Min_Money 8 #Max_Money 9 # Min_EXP 10 #Max_EXP 11 #Min_Money_to_took 12 #Max_Money_to_took 13
+Malza 2 6 4 1 10 Explosion 5 2 10 1 2 1 5
+Dog 5 0 2 5 10 Bite 10 15 25 2 4 2 15
+Orc 8 2 4 1 60 Charge 12 15 20 3 6 4 12
+Spider 15 2 16 1 90 Blood-Web 15 20 40 10 15 12 28
+Abony 20 21 4 1 250 Demonic-Walk 15 60 75 15 25 40 60
+Seren 32 6 20 2 500 Infection 25 100 150 25 50 90 120
