@@ -1,0 +1,2 @@
+#Name 0 #Level 1 #Int 2 #Str 3 #Dex 4 #HP 5 #Attack_Name 6 #Attack_Power 7 #Min_Money 8 #Max_Money 9 # Min_EXP 10 #Max_EXP 11 #Min_Money_to_took 12 #Max_Money_to_took 13
+Regon 10 10 9 8 16 Flashback 25 25 50 15 25 14 55

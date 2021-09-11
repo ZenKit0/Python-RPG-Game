@@ -1,0 +1,5 @@
+#Class_Name #Attack_name_1 #Attack_power_1 #Attack_name_2 #Attack_power_2 #Mana_1_attack #Mana_2_attack
+Mage Magic-Ball 15 Thunder 50 3 10
+Warrior Hot-Blade 10 Tornado 45 2 6
+Assassin Dancing-Blade 20 Knife-Rain 45 4 6
+Tank Rush 5 Of-Jump 20 1 4
